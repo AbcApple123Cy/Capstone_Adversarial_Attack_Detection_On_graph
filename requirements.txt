@@ -1,0 +1,16 @@
+pandas==2.1.3
+fastapi
+kaleido
+multipart
+uvicorn
+torch
+torch-geometric
+torchattacks
+torch_sparse
+torch_scatter
+deeprobust
+wheel
+numpy==1.23
+scipy
+ogb
+networkx
