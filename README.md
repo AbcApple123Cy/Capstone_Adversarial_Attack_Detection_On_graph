@@ -20,6 +20,7 @@ graph
 CleanGraphData:ThisdataissourcedfromthePyTorchGeometri’s library’sdataset,which includethe‘Cora’, ‘Citeseer’and ‘Polblogs’.
 -
 AttackedGraphData:Thisdataisgeneratedby usingadversarialattack techniques onPyTorchGeometri’s library’s dataset in previous stages.
+
 2.Sampling
 -
 The training data is sampled for both clean Graph Data and attacked Graph Data to ensure a balanced representation of both 'normal' and 'attacked' categories.
